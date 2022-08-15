@@ -1,2 +1,2 @@
-uraabk|10
+uraabk|1
 Ilcux|2

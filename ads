@@ -5,4 +5,4 @@ Daeddman|1
 Kibertronik|1
 Guram2412d|1
 Zorex|1
-lLoki|21
+lLoki|20

@@ -5,5 +5,5 @@ Daeddman|1
 Kibertronik|1
 Guram2412d|1
 Zorex|1
-lLoki|16
+lLoki|3
 VadimX|3

@@ -1,4 +1,4 @@
-uraabk|5
+uraabk|2
 Ilcux|2
 PROROK_7103|2
 Daeddman|1
